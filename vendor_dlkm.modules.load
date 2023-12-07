@@ -29,3 +29,5 @@ extra/panel/panel-samsung-s6e3hc4.ko
 extra/sec_touch.ko
 extra/snd-soc-cs40l26.ko
 extra/snd_soc_cs40l2x.ko
+extra/tests/kutf/mali_kutf.ko
+extra/tests/mali_kutf_clk_rate_trace/kernel/mali_kutf_clk_rate_trace_test_portal.ko
